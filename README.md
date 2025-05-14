@@ -20,4 +20,4 @@ PCB for openDTU onBattery
 
 ## PCB
 
-![PCB](./images/pcb.png)
+![PCB](./images/PCB.png)
