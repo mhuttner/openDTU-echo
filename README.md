@@ -2,6 +2,8 @@
 
 PCB for openDTU onBattery
 
+This PCB can be easily ordered from JLCPCB with assembly, but the ESP32-S3 and the Ebyte E49-900M20S module need to be soldered by hand.
+
 ## Features
 
 ![PCB](./images/3d.png)
