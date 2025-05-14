@@ -18,9 +18,9 @@ C6,100n,C_0402_1005Metric,127.0,-116.6075,90.0,top
 C7,100n,C_0402_1005Metric,138.0,-113.0675,-90.0,top
 C8,1u,C_0603_1608Metric,78.525,-83.52,180.0,top
 C9,100n,C_0402_1005Metric,87.0,-95.52,90.0,top
-J1,Conn_01x04_Socket,PinSocket_1x04_P2.54mm_Vertical,123.48,-98.75,-90.0,top
+J1,I2C Display,PinSocket_1x04_P2.54mm_Vertical,123.48,-98.75,-90.0,top
 J2,ESP Serial,PinHeader_1x04_P2.54mm_Vertical,138.27,-100.0,-90.0,top
-J3,Conn_01x14_Pin,PinHeader_1x14_P2.54mm_Vertical,132.19,-77.5,90.0,top
+J3,GPIO,PinHeader_1x14_P2.54mm_Vertical,132.19,-77.5,90.0,top
 J4,Conn_01x03_Pin,PinHeader_1x03_P2.54mm_Vertical,79.25,-113.75,0.0,top
 L1,GZ2012D101TF,L0805,90.966218,-122.5,0.0,top
 L2,15uH,IND-SMD_L7.1-W6.6_SLO0618H,88.0,-111.950025,90.0,top

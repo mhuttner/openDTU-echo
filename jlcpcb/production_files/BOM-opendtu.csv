@@ -28,9 +28,9 @@ TestPoint,TP1,TestPoint_Pad_D2.0mm,,1
 TestPoint,TP7,TestPoint_Pad_D2.0mm,,1
 TestPoint,TP9,TestPoint_Pad_D2.0mm,,1
 ESP Serial,J2,PinHeader_1x04_P2.54mm_Vertical,,1
-Conn_01x04_Socket,J1,PinSocket_1x04_P2.54mm_Vertical,,1
+I2C Display,J1,PinSocket_1x04_P2.54mm_Vertical,,1
 TestPoint,TP3,TestPoint_Pad_D2.0mm,,1
-Conn_01x14_Pin,J3,PinHeader_1x14_P2.54mm_Vertical,,1
+GPIO,J3,PinHeader_1x14_P2.54mm_Vertical,,1
 ~,U11,E49-900M20S,,1
 TestPoint,TP6,TestPoint_Pad_D2.0mm,,1
 Conn_01x03_Pin,J4,PinHeader_1x03_P2.54mm_Vertical,,1
